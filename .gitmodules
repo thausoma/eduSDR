@@ -1,0 +1,12 @@
+[submodule "external/SoapySDR"]
+	path = external/SoapySDR
+	url = https://github.com/TelecomDep/SoapySDR.git
+[submodule "external/SoapyPlutoSDR"]
+	path = external/SoapyPlutoSDR
+	url = https://github.com/TelecomDep/SoapyPlutoSDR.git
+[submodule "external/libiio"]
+	path = external/libiio
+	url = https://github.com/TelecomDep/libiio.git
+[submodule "external/libad9361-iio"]
+	path = external/libad9361-iio
+	url = https://github.com/TelecomDep/libad9361-iio.git
